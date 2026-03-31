@@ -1,0 +1,26 @@
+# Virtual environment
+IntelDash/
+venv/
+env/
+
+# Dataset (too large, not included)
+*.csv
+*.data
+*.zip
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+*.env
